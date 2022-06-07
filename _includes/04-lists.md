@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# List of my favorites 
+- Learning Github
+- Learning SQL
+- Learning data.table 
